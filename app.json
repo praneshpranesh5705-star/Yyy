@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "POS Billing",
+    "slug": "pos-billing-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F6F4EF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pranesh.posbilling"
+    },
+    "android": {
+      "package": "com.pranesh.posbilling",
+      "adaptiveIcon": {
+        "backgroundColor": "#F6F4EF"
+      }
+    }
+  }
+}
